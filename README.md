@@ -17,3 +17,11 @@
 🔹 Advanced System Design & Performance Optimization
 
 🔹 Exploring Microservices & Cloud Computing
+
+📫 Let's Connect!
+
+🔗 Portfolio: https://taskarharish.vercel.app/
+
+🔗 LinkedIn: https://www.linkedin.com/in/harishtaskar-innovator/
+
+💡 Always open to collaboration on Open Source Projects and Exciting Web Development Ideas! 🚀
