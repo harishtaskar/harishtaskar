@@ -5,7 +5,6 @@
 🛠 Tech Stack
 
 🔹 Frontend: React.js, Next.js, Redux, Tailwind CSS, SASS
-
 🔹 Backend: Node.js, Express.js, REST APIs, GraphQL, Sails.js
 
 🔹 Database: MongoDB, Firebase, PostgreSQL
