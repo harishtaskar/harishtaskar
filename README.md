@@ -1,8 +1,12 @@
-## Hi there 👋
+🚀 Harish Taskar | MERN Stack Developer
+👋 Hi, I'm Harish Taskar, a MERN Stack Developer with 2+ years of experience in building scalable, high-performance web applications. Passionate about JavaScript, React, Next.js, Node.js, and MongoDB, I love solving real-world problems through efficient and clean code.
 
--👋 Hi, I’m @harishtaskar
--🔭 I’m currently working on https://chatbees.vercel.app/
--🌱 I'm actively learning new technologies to enhance my proficiency.
--👯 I'm always eager to collaborate on innovative projects that tackle real-world problems. 
--📫 How to reach me 👉 https://www.linkedin.com/in/harishtaskar-innovator/
--⚡ Fun fact: The first-ever website, created by Tim Berners-Lee in 1991, is still live today! You can visit it at https://info.cern.ch/ it’s a super simple page explaining how the World Wide Web works. 🚀
+🛠 Tech Stack
+🔹 Frontend: React.js, Next.js, Redux, Tailwind CSS, SASS
+🔹 Backend: Node.js, Express.js, REST APIs, GraphQL, Sails.js
+🔹 Database: MongoDB, Firebase, PostgreSQL
+🔹 Others: WebSockets (Socket.io), Redis, Github, Jira
+
+🌱 Currently Learning
+🔹 Advanced System Design & Performance Optimization
+🔹 Exploring Microservices & Cloud Computing
